@@ -9,7 +9,6 @@ public class GitTest {
         System.out.println("thirdasas");
         System.out.println("fourth");
         System.out.println("hot fixs");
-        System.out.println("dassad");
-        System.out.println("dassad1");
+        System.out.println("dassad2");
     }
 }
